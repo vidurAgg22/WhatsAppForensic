@@ -1,9 +1,8 @@
-
 # WhatsApp Forensic Analyzer 📱🔍
 
 ## Overview
 The **WhatsApp Forensic Analyzer** is a comprehensive tool designed to analyze WhatsApp group chat data using techniques from Exploratory Data Analysis (EDA), Natural Language Processing (NLP), and forensic algorithms. This project aims to assist forensic analysts in conducting evidence-based studies of WhatsApp conversations by uncovering behavioral patterns and communication dynamics within groups.
-
+This project is part of the research paper 'WhatsApp Forensic Analysis for Group Chats using Exploratory Data Analysis and Natural Language Processing,' presented at ICDSA-2024. The after-conference proceedings of ICDSA 2024 will be published in the SCOPUS Indexed Springer Book Series, 'Lecture Notes in Networks and Systems.'
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -26,7 +25,7 @@ To get started with the WhatsApp Forensic Analyzer, clone the repository and ins
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/WhatsApp-Forensic-Analyzer.git
+git clone https://github.com/vidurAgg22/WhatsApp-Forensic-Analyzer.git
 cd WhatsApp-Forensic-Analyzer
 ```
 
@@ -64,7 +63,7 @@ Enhancements to the system may include:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
-- [Your Name] - for the development of this project.
+- Vidur Agarwal - for the development of this project.
 - Various libraries and tools used for NLP and data visualization.
 
 ---
